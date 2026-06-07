@@ -1,0 +1,13 @@
+.scn-note{
+position:fixed;
+width:200px;
+padding:10px;
+background:#fffa75;
+box-shadow:0 10px 20px rgba(0,0,0,0.2);
+border-radius:10px;
+cursor:grab;
+z-index:99999;
+font-family:sans-serif;
+}
+.scn-title{font-weight:bold;margin-bottom:5px;}
+.scn-close{float:right;cursor:pointer;}
